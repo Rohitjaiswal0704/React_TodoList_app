@@ -1,0 +1,37 @@
+.form1{
+    width: 85%; 
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+    margin-top: 1vw;
+}
+
+.form11{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.input11{
+    width: 85%;
+    margin-top: 1vw;
+    border-radius: 0.6vw;
+    font-family: gilroy;
+    padding-left: 1vw;
+    font-size: 1.5vw;
+    border: none;
+    outline: none;
+    border-bottom: 0.1vw solid rgb(73, 73, 73);
+}
+.btn1{
+    width: 35%;
+    height: 6%;
+    margin-top: 1.5vw;
+    font-family: gilroy;
+    font-size: 1.5vw;
+    border: none;
+    border-radius: 0.8vw;
+    color: rgb(35, 35, 35);
+    
+}
